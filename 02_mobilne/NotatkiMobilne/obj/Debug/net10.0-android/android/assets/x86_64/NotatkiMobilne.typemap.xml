@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="NotatkiMobilne" mvid="cd19d2de3862400ca776e22e01268dd8">
+  <java-to-managed>
+    <entry java-name="crc64c7d554555f37a966/MainActivity" managed-name="NotatkiMobilne.MainActivity, NotatkiMobilne" managed-type-token-id="33554456" />
+    <entry java-name="crc64c7d554555f37a966/MainApplication" managed-name="NotatkiMobilne.MainApplication, NotatkiMobilne" managed-type-token-id="33554457" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64c7d554555f37a966/MainActivity" managed-name="NotatkiMobilne.MainActivity, NotatkiMobilne" managed-type-token-id="33554456" />
+    <entry java-name="crc64c7d554555f37a966/MainApplication" managed-name="NotatkiMobilne.MainApplication, NotatkiMobilne" managed-type-token-id="33554457" />
+  </managed-to-java>
+</api>
